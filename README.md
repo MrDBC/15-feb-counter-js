@@ -1,4 +1,4 @@
-# 15-feb-counter-js
+counter & reset app
 
 this app basically has 3 functionalities:
 1. increment the current value by 1
